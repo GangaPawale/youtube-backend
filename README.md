@@ -18,7 +18,6 @@ Key Features:
 
 ## Authors
 
-- [@dinesh Prajapati](https://www.github.com/dineshEth)
 
 
 ## Run Locally
@@ -26,7 +25,7 @@ Key Features:
 Clone the project
 
 ```bash
-  git clone https://github.com/dineshEth/youtube-backend.git
+  
 ```
 
 Go to the project directory
